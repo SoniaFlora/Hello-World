@@ -23,11 +23,11 @@
 - [📝 License](#license)
 
 
-# 📖 [your_project_name] <a name="Hello-World"></a>
+# 📖 [Hello World] <a name="Hello-World"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a Hello-World
+**[Hello World]** is a Hello-World
 
 ## 🛠 Built With <a name="built-with"></a>
 
